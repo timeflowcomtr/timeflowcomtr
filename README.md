@@ -1,16 +1,42 @@
-## Hi there 👋
+# Timeflow - Ücretsiz Sunucu İzleme (Cloud Monitoring)
 
-<!--
-**timeflowcomtr/timeflowcomtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Timeflow**, sunucunuzu, web sitenizi veya servislerinizi tamamen **ücretsiz** izleyebileceğiniz bir cloud monitoring hizmetidir.  
+Her şey tamamen Timeflow altyapısında çalışır, herhangi bir dosya indirmeniz gerekmez.
 
-Here are some ideas to get you started:
+➡️ Hizmeti kullanmak için: https://timeflow.com.tr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Özellikler
+- %100 ücretsiz cloud monitoring  
+- HTTP / Ping / Port izleme  
+- Anlık uptime takibi  
+- E-posta bildirim sistemi  
+- Sınırsız server ekleme  
+- Hızlı kayıt, kolay kullanım
+
+---
+
+## 🧩 Nasıl Çalışır?
+
+1. Timeflow'a **ücretsiz üye olursunuz**  
+2. Panelinizden **server ekleyerek** sunucu veya servisinizi tanımlarsınız  
+3. Timeflow, belirlediğiniz aralıklarla servisinizi kontrol eder  
+4. Bir kesinti olduğunda **anında e-posta uyarısı** alırsınız  
+5. Geçmiş uptime raporlarını panelden inceleyebilirsiniz
+
+Tamamen bulut altyapısında çalıştığı için **sunucuya hiçbir dosya kurmanıza gerek yoktur.**
+
+---
+
+## 🌐 Üyelik ve Kullanım
+Anasayfa:  
+👉 https://timeflow.com.tr/
+
+Ücretsiz hesap oluşturmak için:  
+👉 https://timeflow.com.tr/register
+
+Mevcut kullanıcı girişi:  
+👉 https://timeflow.com.tr/login
+
+---
